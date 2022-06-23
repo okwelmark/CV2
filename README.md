@@ -42,10 +42,10 @@
         <br />
         <h2>My hobbies</h2>
         <ul>
-          <ol>Adventuring</ol>
-          <ol>Football</ol>
-          <ol>Travelling</ol>
-          <ol>Watching</ol>
+          <li>Adventuring</li>
+          <li>Football</li>
+          <li>Travelling</li>
+          <li>Watching</li>
         </ul>
           <img
             src="C:\Users\hp\Desktop\mine\adventuring.JPG"
@@ -58,6 +58,7 @@
             <i>photo taken from ACACCIA MALL</i>
           </caption>
         </ul>
+      <hr>
         <h2>Achievements/Experience</h2>
         <ol>
           <li>I managed an event's company in between 2018-2019</li>
@@ -67,6 +68,7 @@
           </li>
         </ol>
         <br />
+      <hr>
         <h2>Education</h2>
         <table>
           <tr>
