@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="refresh" content="30" />
-    <title><center>CURRICULUM VITAE</center></title>
   </head>
   <body>
     <form>
@@ -91,25 +90,19 @@
           <fieldset>
             <h1>Contact Form</h1>
             <p>
-              <label
-                >FirstName
+              <label>FirstName
                 <input type="FirstName" placeholder="First name" size="29" />
               </label>
             </p>
             <p>
-              <label
-                >LastName
+              <label>LastName
                 <input type="LastName" placeholder="Last name" size="29" />
               </label>
             </p>
             <p>
-              <label
-                >Email
+              <label>Email
                 <input type="Email" placeholder="Email" size="29" />
               </label>
-            </p>
-            <p>
-              <label for="ID Number" placeholder="ID Number" size="29"> </label>
             </p>
             <p>
               <label for="Contact" placeholder="Contact" size="29"> </label>
@@ -120,26 +113,17 @@
               </label>
             </p>
             <p>
-              <label
-                >Comment
-                <textarea name="comment"></textarea>
-              </label>
-            </p>
-            <p>
               <strong>Gender</strong><br />
-              <label
-                >male
+              <label>male
                 <input type="radio" name="Gender" value="Male" />
               </label>
-              <label
-                >female
+              <label>female
                 <input type="radio" name="Gender" value="Female" />
               </label>
             </p>
             <p>
               <input type="submit" />
             </p>
-          </fieldset>
         </form>
       </fieldset>
     </form>
