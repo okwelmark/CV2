@@ -32,11 +32,11 @@
           languages including;
         </p>
         <ul>
-          <dt>python</dt>
-          <dt>javascript</dt>
-          <dt>java</dt>
-          <dt>c++ and c#</dt>
-          <dt>including html</dt>
+          <li>python</li>
+          <li>javascript</li>
+          <li>java</li>
+          <li>c++ and c#</li>
+          <li>including html</li>
         </ul>
         <hr />
         <br />
@@ -58,13 +58,13 @@
           </caption>
         </ul>
         <h2>Achievements/Experience</h2>
-        <ul>
-          <dt>I managed an event's company in between 2018-2019</dt>
-          <dt>
+        <ol>
+          <li>I managed an event's company in between 2018-2019</li>
+          <li>
             I am currently part-timing with SEMA organization as a Technology
             personnel
-          </dt>
-        </ul>
+          </li>
+        </ol>
         <br />
         <h2>Education</h2>
         <table>
