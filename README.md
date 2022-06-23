@@ -32,11 +32,11 @@
           languages including;
         </p>
         <ul>
-          <li>python</li>
-          <li>javascript</li>
-          <li>java</li>
-          <li>c++ and c#</li>
-          <li>including html</li>
+          <il>python</il>
+          <il>javascript</il>
+          <il>java</il>
+          <il>c++ and c#</il>
+          <il>including html</il>
         </ul>
         <hr />
         <br />
