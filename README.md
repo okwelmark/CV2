@@ -11,7 +11,7 @@
     <form>
       <fieldset>
         <h1><center>OKWEL EDGAR MARK</center></h1>
-        <img src="C:\Users\hp\Desktop\mine\CV.JPEG" width="200" height="200"
+        <img src="C:\Users\hp\Desktop\mine\CV.jpeg" width="200" height="200"
         float: left: alt="okwel edgar mark"/>
         <br />
         <caption>
