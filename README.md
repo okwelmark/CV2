@@ -124,8 +124,9 @@
             <p>
               <input type="submit" />
             </p>
+            </fieldset>
         </form>
       </fieldset>
     </form>
-  </body>
+</body>
 </html>
