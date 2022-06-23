@@ -32,20 +32,20 @@
           languages including;
         </p>
         <ul>
-          <il>python</il>
-          <il>javascript</il>
-          <il>java</il>
-          <il>c++ and c#</il>
-          <il>including html</il>
+          <li>python</li>
+          <li>javascript</li>
+          <li>java</li>
+          <li>c++ and c#</li>
+          <li>including html</li>
         </ul>
         <hr />
         <br />
         <h2>My hobbies</h2>
         <ul>
-          <dt>Adventuring</dt>
-          <dt>Football</dt>
-          <dt>Travelling</dt>
-          <dt>Watching</dt>
+          <ol>Adventuring</ol>
+          <ol>Football</ol>
+          <ol>Travelling</ol>
+          <ol>Watching</ol>
           <img
             src="C:\Users\hp\Desktop\mine\adventuring.JPG"
             width="400"
