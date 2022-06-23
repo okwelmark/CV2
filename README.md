@@ -46,6 +46,7 @@
           <ol>Football</ol>
           <ol>Travelling</ol>
           <ol>Watching</ol>
+        </ul>
           <img
             src="C:\Users\hp\Desktop\mine\adventuring.JPG"
             width="400"
