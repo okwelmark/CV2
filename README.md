@@ -11,8 +11,12 @@
     <form>
       <fieldset>
         <h1><center>OKWEL EDGAR MARK</center></h1>
-        <img src="C:\Users\hp\Desktop\mine\cv.jpeg" width="200" height="200"
-        float: left: alt="okwel edgar mark"/>
+        <img 
+             src="C:\Users\hp\Desktop\mine\cv.jpeg" 
+             width="200" height="200"
+        float: left: 
+             alt="okwel edgar mark"
+         />
         <br />
         <caption>
           <i>taken by mcedgars</i>
@@ -54,12 +58,11 @@
             width="400"
             height="200"
             alt="partying"
-          />
-          <br />
+           />
+          <br >
           <caption>
             <i>photo taken from ACACCIA MALL</i>
           </caption>
-        </ul>
       <hr>
         <h2>Achievements/Experience</h2>
         <ol>
