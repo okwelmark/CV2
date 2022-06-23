@@ -7,10 +7,11 @@
     <meta http-equiv="refresh" content="30" />
   </head>
   <body>
+    <!-- the form for the whole website -->
     <form>
       <fieldset>
         <h1><center>OKWEL EDGAR MARK</center></h1>
-        <img src="https://www.facebook.com/photo/?fbid=1185119971856175&set=ecnf.100010745507994" width="200" height="200"
+        <img src="C:\Users\hp\Desktop\mine.JPEG" width="200" height="200"
         float: left: alt="okwel edgar mark"/>
         <br />
         <caption>
@@ -23,6 +24,7 @@
         <p>okwel.edgar@students.mak.ac.ug</p>
         <hr />
         <br />
+        <!-- this give a brief description about myself -->
         <h2>Summary</h2>
         <p>
           I am a makerere student of <b>Software Engineering</b> year one, I
