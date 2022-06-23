@@ -12,9 +12,8 @@
       <fieldset>
         <h1><center>OKWEL EDGAR MARK</center></h1>
         <img 
-             src="C:\Users\hp\Desktop\mine\cv.jpeg" 
-             width="200" height="200"
-        float: left: 
+             src="C:\Users\hp\Desktop\mine\CV.JPEG" 
+             width="200" height="200" 
              alt="okwel edgar mark"
          />
         <br />
